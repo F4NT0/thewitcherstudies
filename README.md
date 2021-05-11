@@ -1,7 +1,7 @@
 # Estudos profundos no mundo do The Witcher
 
 <center>
-    <img src="images/the_witcher_3/world-map.jpg" width="100" height="100">
+    <img src="images/the_witcher_3/world-map.jpg">
 </center>
 
 ---
