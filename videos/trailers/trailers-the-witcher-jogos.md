@@ -2,7 +2,7 @@
 # Trailers dos Jogos do The Witcher
 
 <center>
-    <img src="">
+    <img src="https://github.com/F4NT0/thewitcherstudies/blob/main/images/the_witcher_3/poster-abertura-videos.jpg">
 </center>
 
 ---
