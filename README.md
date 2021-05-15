@@ -32,6 +32,7 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         7) O último desejo (conto que uniu Geralt com a Yennifer)
 
+
 * <code style="color: red">A espada do Destino (Título Original: Wiedzmin - Miecz przeznaczenia)</code>
     * Lançado pela primeira vez em 1992 (foi lançado antes do primeiro), chegou traduzido ao Brasil em 2012
     * Frase marcante desse livro: "A espada do destino tem dois gumes... Um deles é você. E o outro é a morte."
@@ -103,9 +104,21 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
 
 * <code style="color: greenyellow">The Witcher Role-Playing-Game, Livro Básico</code> lançado em 2020. livro base para jogar
 
+<center>
+    <img src="images/the_witcher_rpg/livro-base.jpg">
+</center>
+
 * <code style="color: greenyellow">The Witcher Senhores Feudais</code> lançado em 2020 também. expansão do primeiro livro que traz o escudo do mestre e a raça ananicos e profissão Nobre
 
+<center>
+    <img src="images/the_witcher_rpg/expansao-1.webp">
+</center>
+
 * <code style="color: greenyellow">The Witcher O diário do Bruxo</code> lançado em 2021. segunda expansão que traz mais informação e dados sobre os bruxos do mundo do the witcher, com um bestiário maior e mair lore sobre como surgiram e como se tornar um deles e muito mais
+
+<center>
+    <img src="images/the_witcher_rpg/expansao-2.jpg">
+</center>
 
 ## Série da Netflix
 
