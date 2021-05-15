@@ -85,15 +85,47 @@ O Autor dos livros em si não recebe nada dos jogos da empresa porque recusou um
 
 Foram lançados até o momento 6 jogos, sendo eles:
 
-* <code style="color: purple">The Witcher</code> lançado em 2007
+* <code style="color: gold">The Witcher</code> lançado em 2007
 
-* <code style="color: purple">The Witcher - Assassins of Kings</code> lançado em 2012
+* <code style="color: gold">The Witcher - Assassins of Kings</code> lançado em 2012
 
-* <code style="color: purple">The Witcher 3 Wild Hunt</code> lançado em 2015
+* <code style="color: gold">The Witcher Adventure Game</code> jogo boardgame digital do jogo de mesa lançado em 2014
 
-* <code style="color: purple">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
+* <code style="color: gold">The Witcher 3 Wild Hunt</code> lançado em 2015
 
-* <code style="color: purple">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
+* <code style="color: gold">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
+
+* <code style="color: gold">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
+
+## RPG DE MESA
+
+Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados os livros de como jogar o RPG com um grupo de pessoas, podendo expandir a história do mundo de the witcher para além dos limites dos livros e Jogos, onde foram lançados até o momento os seguinte livros para jogar:
+
+* <code style="color: greenyellow">The Witcher Role-Playing-Game, Livro Básico</code> lançado em 2020. livro base para jogar
+
+* <code style="color: greenyellow">The Witcher Senhores Feudais</code> lançado em 2020 também. expansão do primeiro livro que traz o escudo do mestre e a raça ananicos e profissão Nobre
+
+* <code style="color: greenyellow">The Witcher O diário do Bruxo</code> lançado em 2021. segunda expansão que traz mais informação e dados sobre os bruxos do mundo do the witcher, com um bestiário maior e mair lore sobre como surgiram e como se tornar um deles e muito mais
+
+## Série da Netflix
+
+Netflix lançou em 2019 a série do The Witcher, mostrando a história desde o inicio pelos livros, onde a ideia e trazer toda a história do Geralt de Rívia dos livros para o público das séries.
+
+A primeira Temporada mostra a origem da Ciri,Yennefer e Jaskier na vida do Geralt e a luta diária dele de ser um Bruxo, onde ele vive muito mais tempo que um mero mortal e tem todo um código de vida, onde ele diz que perdeu as emoções devido as provas das ervas que o tornou bruxo, mas podemos ver que ele ainda pode sentir algo.
+
+O Geralt da Netflix é o Grande ator Henry Cavill, que fez o Superhomem do jack snyder, sendo o ator perfeito para o papel porque ele não só tem os jeitos do personagem dos jogos como também é um grande fã das histórias, onde ele ja leu e jogou todos os jogos lançados.
+
+A segunda temporada vai ser lançado no final de 2021, trazendo a história do terceiro livro, mostrando o treinamento da CIRI para se tornar um Bruxo.
+
+## História em Quadrinhos
+
+Tem histórias em quadrinhos que foram lançadas na polonia desde 1993, mas está chegando no brasil somente a recém algumas histórias, vindas para o Brasil pela empresa Dark Horse desde 2014, dentre elas:
+
+* <code style="color: aquamarine">A Casa de Vidro</code> Lançado em 2014
+
+* <code style="color: aquamarine">Filhos da Raposa</code> Lançado em 2015
+
+* <code style="color: aquamarine">A maldição dos Corvos</code> Lançado em 2018
 
 
  
