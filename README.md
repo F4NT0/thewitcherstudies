@@ -105,7 +105,7 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
 * <code style="color: greenyellow">The Witcher Role-Playing-Game, Livro Básico</code> lançado em 2020. livro base para jogar
 
 <center>
-    <img src="images/the_witcher_rpg/livro-base.jpg" width="300" height="300">
+    <img src="images/the_witcher_rpg/livro-base.jpg" width="300" height="400">
 </center>
 
 * <code style="color: greenyellow">The Witcher Senhores Feudais</code> lançado em 2020 também. expansão do primeiro livro que traz o escudo do mestre e a raça ananicos e profissão Nobre
