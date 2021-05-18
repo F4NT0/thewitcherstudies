@@ -6,7 +6,9 @@
 
 ---
 
-### Os Livros
+<center>
+    <h1><b>Os Livros</b></h1>
+</center>
 
 **The Witcher** é uma saga que surgiu a partir de um conto chamado <code style="color: orange">O Bruxo</code> lançado em 1986 pelo autor **Andrzej Sapkowski** para um concurso em uma revista polonesa chamada _Fantastyka_.
 
@@ -77,6 +79,7 @@ Os Romances lançados são:
     * Lançado pela primeira vez em Novembro de 2013 na Polônia
     * Lançado no Brasil em 2019
 
+---
 
 ## Os Jogos
 
@@ -97,6 +100,8 @@ Foram lançados até o momento 6 jogos, sendo eles:
 * <code style="color: gold">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
 
 * <code style="color: gold">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
+
+---
 
 ## RPG DE MESA
 
@@ -120,6 +125,8 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
     <img src="images/the_witcher_rpg/expansao-2.jpg" width="300" height="400">
 </center>
 
+---
+
 ## Série da Netflix
 
 Netflix lançou em 2019 a série do The Witcher, mostrando a história desde o inicio pelos livros, onde a ideia e trazer toda a história do Geralt de Rívia dos livros para o público das séries.
@@ -129,6 +136,8 @@ A primeira Temporada mostra a origem da Ciri,Yennefer e Jaskier na vida do Geral
 O Geralt da Netflix é o Grande ator Henry Cavill, que fez o Superhomem do jack snyder, sendo o ator perfeito para o papel porque ele não só tem os jeitos do personagem dos jogos como também é um grande fã das histórias, onde ele ja leu e jogou todos os jogos lançados.
 
 A segunda temporada vai ser lançado no final de 2021, trazendo a história do terceiro livro, mostrando o treinamento da CIRI para se tornar um Bruxo.
+
+---
 
 ## História em Quadrinhos
 
