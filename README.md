@@ -1,7 +1,7 @@
 # Estudos profundos no mundo do The Witcher
 
 <center>
-    <img src="images/the_witcher_3/logo-imagem-principal.jpeg">
+    <img src="images/the_witcher_3/logo-imagem-principal.jpeg" width="300" height="400">
 </center>
 
 ---
@@ -111,13 +111,13 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
 * <code style="color: greenyellow">The Witcher Senhores Feudais</code> lançado em 2020 também. expansão do primeiro livro que traz o escudo do mestre e a raça ananicos e profissão Nobre
 
 <center>
-    <img src="images/the_witcher_rpg/expansao-1.webp">
+    <img src="images/the_witcher_rpg/expansao-1.webp" width="300" height="400">
 </center>
 
 * <code style="color: greenyellow">The Witcher O diário do Bruxo</code> lançado em 2021. segunda expansão que traz mais informação e dados sobre os bruxos do mundo do the witcher, com um bestiário maior e mair lore sobre como surgiram e como se tornar um deles e muito mais
 
 <center>
-    <img src="images/the_witcher_rpg/expansao-2.jpg">
+    <img src="images/the_witcher_rpg/expansao-2.jpg" width="300" height="400">
 </center>
 
 ## Série da Netflix
