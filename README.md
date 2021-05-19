@@ -34,6 +34,7 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         7) O último desejo (conto que uniu Geralt com a Yennifer)
 
+<br>
 <table>
     <tr>
         <th>
@@ -62,9 +63,16 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         6) Algo mais
 
-<center>
-    <img src="images/the_witcher_books/espada_do_destino.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/espada_do_destino.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 Após o Lançamento dos dois livros de contos, que foram um sucesso, Andrzej começou a escrever o Romance principal da história de The Witcher, onde no final do segundo livro ele uniu Ciri ao Geralt permanentemente após a destruição de cintra e no terceiro livro em diante deu origem a história que conhecemos hoje.
 
@@ -75,47 +83,89 @@ Os Romances lançados são:
 * <code style="color: lightblue">O Sangue dos Elfos (Título Original: Wiedzmin - Krew Elfow)</code>
     * Lançado pela primeira vez em 1994, chegou traduzido ao Brasil em 2013
 
-<center>
-    <img src="images/the_witcher_books/sangue_dos_elfos.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/sangue_dos_elfos.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: lightblue">Tempo do Desprezo (Título Original: Wiedzmin - Czas Pogardy)</code>
     * Lançado pela primeira vez em 1995, chegou traduzido ao Brasil em 2014
 
-<center>
-    <img src="images/the_witcher_books/tempo_do_desprezo.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/tempo_do_desprezo.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: lightblue">Batismo de Fogo (Título Original: Wiedzmin - Chrzest Ognia)</code>
     * Lançado pela primeira vez em 1996, chegou traduzido ao Brasil em 2015
 
-<center>
-    <img src="images/the_witcher_books/batismo_de_fogo.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/batismo_de_fogo.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: lightblue">A torre da Andorinha (Título Original: Wiedzmin - Wieza Jaskólki)</code>
     * Lançado pela primeira vez em 1997, chegou traduzido ao Brasil em 2016
 
-<center>
-    <img src="images/the_witcher_books/torre_da_andorinha.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/torre_da_andorinha.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: lightblue">A senhora do Lago (Título Original: Wiedzmin - Pani Jeziora)</code>
     * Lançado pela primeira vez em 1999
     * No Brasil foi dividido pela primeira vez em 2 volumes lançados em 2017 (primeiro em Junho e o segundo em Novembro)
 
-<center>
-    <img src="images/the_witcher_books/a_senhora_do_lago.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/a_senhora_do_lago.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: lightblue">Tempo de Tempestade (Título Original: Wiedzmin - Sezon Burz)</code>
     * Este livro é considerado um Prelúdio (se passa antes da história principal para um desfecho final)
     * Lançado pela primeira vez em Novembro de 2013 na Polônia
     * Lançado no Brasil em 2019
 
-<center>
-    <img src="images/the_witcher_books/tempo_de_tempestade.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/tempo_de_tempestade.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 ---
 
@@ -131,39 +181,81 @@ Foram lançados até o momento 6 jogos, sendo eles:
 
 * <code style="color: gold">The Witcher</code> lançado em 2007
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_1_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_1_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: gold">The Witcher - Assassins of Kings</code> lançado em 2012
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_2_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_2_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: gold">The Witcher Adventure Game</code> jogo boardgame digital do jogo de mesa lançado em 2014
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_3_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_3_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: gold">The Witcher 3 Wild Hunt</code> lançado em 2015
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_adventure_game_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_adventure_game_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: gold">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_gwent_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_gwent_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: gold">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
 
-<center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_thronebreaker_wallpaper.jpg">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_game_wallpapers/the_witcher_thronebreaker_wallpaper.jpg">
+            </center>
+        </th>
+    </tr>
+</table>
 
 ---
 
@@ -175,21 +267,42 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
 
 * <code style="color: greenyellow">The Witcher Role-Playing-Game, Livro Básico</code> lançado em 2020. livro base para jogar
 
-<center>
-    <img src="images/the_witcher_rpg/livro-base.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_rpg/livro-base.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: greenyellow">The Witcher Senhores Feudais</code> lançado em 2020 também. expansão do primeiro livro que traz o escudo do mestre e a raça ananicos e profissão Nobre
 
-<center>
-    <img src="images/the_witcher_rpg/expansao-1.webp" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_rpg/expansao-1.webp" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: greenyellow">The Witcher O diário do Bruxo</code> lançado em 2021. segunda expansão que traz mais informação e dados sobre os bruxos do mundo do the witcher, com um bestiário maior e mair lore sobre como surgiram e como se tornar um deles e muito mais
 
-<center>
-    <img src="images/the_witcher_rpg/expansao-2.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_rpg/expansao-2.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 ---
 
@@ -205,9 +318,16 @@ O Geralt da Netflix é o Grande ator Henry Cavill, que fez o Superhomem do jack 
 
 A segunda temporada vai ser lançado no final de 2021, trazendo a história do terceiro livro, mostrando o treinamento da CIRI para se tornar um Bruxo.
 
-<center>
-    <img src="images/the_witcher_netflix/the_witcher_netflix_wallpaper.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_netflix/the_witcher_netflix_wallpaper.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 ---
 
@@ -219,24 +339,43 @@ Tem histórias em quadrinhos que foram lançadas na polonia desde 1993, mas est�
 
 * <code style="color: aquamarine">A Casa de Vidro</code> Lançado em 2014
 
-<center>
-    <img src="images/the_witcher_hq/the_witcher_hq_casa_de_vidro.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_hq/the_witcher_hq_casa_de_vidro.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: aquamarine">Filhos da Raposa</code> Lançado em 2015
 
-<center>
-    <img src="images/the_witcher_hq/the_witcher_hq_os_filhos_da_raposa.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_hq/the_witcher_hq_os_filhos_da_raposa.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 * <code style="color: aquamarine">A maldição dos Corvos</code> Lançado em 2018
 
-<center>
-    <img src="images/the_witcher_hq/the_witcher_hq_a_maldicao_dos_corvos.jpg" width="300" height="400">
-</center>
+<br>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_hq/the_witcher_hq_a_maldicao_dos_corvos.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
-
- 
 ---
 
 <center>
