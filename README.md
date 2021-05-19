@@ -34,9 +34,15 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         7) O último desejo (conto que uniu Geralt com a Yennifer)
 
-<center>
-    <img src="images/the_witcher_books/ultimo_desejo.jpg" width="300" height="400">
-</center>
+<table>
+    <tr>
+        <th>
+            <center>
+                <img src="images/the_witcher_books/ultimo_desejo.jpg" width="300" height="400">
+            </center>
+        </th>
+    </tr>
+</table>
 
 
 * <code style="color: red">A espada do Destino (Título Original: Wiedzmin - Miecz przeznaczenia)</code>
