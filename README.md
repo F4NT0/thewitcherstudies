@@ -126,37 +126,37 @@ Foram lançados até o momento 6 jogos, sendo eles:
 * <code style="color: gold">The Witcher</code> lançado em 2007
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_1_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_1_wallpaper.jpg">
 </center>
 
 * <code style="color: gold">The Witcher - Assassins of Kings</code> lançado em 2012
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_2_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_2_wallpaper.jpg">
 </center>
 
 * <code style="color: gold">The Witcher Adventure Game</code> jogo boardgame digital do jogo de mesa lançado em 2014
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_3_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_3_wallpaper.jpg">
 </center>
 
 * <code style="color: gold">The Witcher 3 Wild Hunt</code> lançado em 2015
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_adventure_game_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_adventure_game_wallpaper.jpg">
 </center>
 
 * <code style="color: gold">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_gwent_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_gwent_wallpaper.jpg">
 </center>
 
 * <code style="color: gold">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_thronebreaker_wallpaper.jpg" width="300" height="400">
+    <img src="images/the_witcher_game_wallpapers/the_witcher_thronebreaker_wallpaper.jpg">
 </center>
 
 ---
@@ -226,7 +226,7 @@ Tem histórias em quadrinhos que foram lançadas na polonia desde 1993, mas est�
 * <code style="color: aquamarine">A maldição dos Corvos</code> Lançado em 2018
 
 <center>
-    <img src="images/the_witcher_game_wallpapers/the_witcher_hq_a_maldicao_dos_corvos.jpg" width="300" height="400">
+    <img src="images/the_witcher_hq/the_witcher_hq_a_maldicao_dos_corvos.jpg" width="300" height="400">
 </center>
 
 
