@@ -1,5 +1,5 @@
 
-[[Voltar]](thewitcherstudies\README.md)
+[[Voltar]](https://github.com/F4NT0/thewitcherstudies)
 
 
 # Trailers dos Jogos do The Witcher 3
