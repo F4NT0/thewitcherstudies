@@ -7,7 +7,7 @@
 ---
 
 <center>
-    <h1><b>Os Livros</b></h1>
+    <h1>Os Livros</h1>
 </center>
 
 **The Witcher** é uma saga que surgiu a partir de um conto chamado <code style="color: orange">O Bruxo</code> lançado em 1986 pelo autor **Andrzej Sapkowski** para um concurso em uma revista polonesa chamada _Fantastyka_.
@@ -34,6 +34,10 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         7) O último desejo (conto que uniu Geralt com a Yennifer)
 
+<center>
+    <img src="images/the_witcher_books/ultimo_desejo.jpg" width="300" height="400">
+</center>
+
 
 * <code style="color: red">A espada do Destino (Título Original: Wiedzmin - Miecz przeznaczenia)</code>
     * Lançado pela primeira vez em 1992 (foi lançado antes do primeiro), chegou traduzido ao Brasil em 2012
@@ -52,6 +56,10 @@ Os Contos foram reunidos nos dois primeiros livros do autor, que se chamam:
         
         6) Algo mais
 
+<center>
+    <img src="images/the_witcher_books/espada_do_destino.jpg" width="300" height="400">
+</center>
+
 Após o Lançamento dos dois livros de contos, que foram um sucesso, Andrzej começou a escrever o Romance principal da história de The Witcher, onde no final do segundo livro ele uniu Ciri ao Geralt permanentemente após a destruição de cintra e no terceiro livro em diante deu origem a história que conhecemos hoje.
 
 Andzej Sapkowsky escreveu 5 romances com os personagens principais (Geralt,Yennefer,Ciri,Triss) que foram surgindo nos contos,onde ele lançou um livro por ano até 1999, onde ele finalizou a história, ou seja, são ao total 7 livros da história inicial.
@@ -61,27 +69,53 @@ Os Romances lançados são:
 * <code style="color: lightblue">O Sangue dos Elfos (Título Original: Wiedzmin - Krew Elfow)</code>
     * Lançado pela primeira vez em 1994, chegou traduzido ao Brasil em 2013
 
+<center>
+    <img src="images/the_witcher_books/sangue_dos_elfos.jpg" width="300" height="400">
+</center>
+
 * <code style="color: lightblue">Tempo do Desprezo (Título Original: Wiedzmin - Czas Pogardy)</code>
     * Lançado pela primeira vez em 1995, chegou traduzido ao Brasil em 2014
+
+<center>
+    <img src="images/the_witcher_books/tempo_do_desprezo.jpg" width="300" height="400">
+</center>
 
 * <code style="color: lightblue">Batismo de Fogo (Título Original: Wiedzmin - Chrzest Ognia)</code>
     * Lançado pela primeira vez em 1996, chegou traduzido ao Brasil em 2015
 
+<center>
+    <img src="images/the_witcher_books/batismo_de_fogo.jpg" width="300" height="400">
+</center>
+
 * <code style="color: lightblue">A torre da Andorinha (Título Original: Wiedzmin - Wieza Jaskólki)</code>
     * Lançado pela primeira vez em 1997, chegou traduzido ao Brasil em 2016
+
+<center>
+    <img src="images/the_witcher_books/torre_da_andorinha.jpg" width="300" height="400">
+</center>
 
 * <code style="color: lightblue">A senhora do Lago (Título Original: Wiedzmin - Pani Jeziora)</code>
     * Lançado pela primeira vez em 1999
     * No Brasil foi dividido pela primeira vez em 2 volumes lançados em 2017 (primeiro em Junho e o segundo em Novembro)
+
+<center>
+    <img src="images/the_witcher_books/a_senhora_do_lago.jpg" width="300" height="400">
+</center>
 
 * <code style="color: lightblue">Tempo de Tempestade (Título Original: Wiedzmin - Sezon Burz)</code>
     * Este livro é considerado um Prelúdio (se passa antes da história principal para um desfecho final)
     * Lançado pela primeira vez em Novembro de 2013 na Polônia
     * Lançado no Brasil em 2019
 
+<center>
+    <img src="images/the_witcher_books/tempo_de_tempestade.jpg" width="300" height="400">
+</center>
+
 ---
 
-## Os Jogos
+<center>
+    <h1>Os Jogos</h1>
+</center>
 
 Em 2007, um estúdio de jogos poloneses chamada **CD Projekt RED** adaptou a história para os jogos, onde seria uma continuação do que ocorre no último livro lançado pelo autor.
 
@@ -91,19 +125,45 @@ Foram lançados até o momento 6 jogos, sendo eles:
 
 * <code style="color: gold">The Witcher</code> lançado em 2007
 
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_1_wallpaper.jpg" width="300" height="400">
+</center>
+
 * <code style="color: gold">The Witcher - Assassins of Kings</code> lançado em 2012
+
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_2_wallpaper.jpg" width="300" height="400">
+</center>
 
 * <code style="color: gold">The Witcher Adventure Game</code> jogo boardgame digital do jogo de mesa lançado em 2014
 
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_3_wallpaper.jpg" width="300" height="400">
+</center>
+
 * <code style="color: gold">The Witcher 3 Wild Hunt</code> lançado em 2015
+
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_adventure_game_wallpaper.jpg" width="300" height="400">
+</center>
 
 * <code style="color: gold">Gwent The Witcher Card Game</code> lançado em 2016 a primeira versão, sendo atualizado até hoje
 
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_gwent_wallpaper.jpg" width="300" height="400">
+</center>
+
 * <code style="color: gold">Thronebreaker: The Witcher Tales</code> primeira expansão do jogo Gwent, sendo um jogo história na mesma estrutura do jogo multijogador gwent, lançado em 2018
+
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_thronebreaker_wallpaper.jpg" width="300" height="400">
+</center>
 
 ---
 
-## RPG DE MESA
+<center>
+    <h1>RPG de Mesa</h1>
+</center>
 
 Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados os livros de como jogar o RPG com um grupo de pessoas, podendo expandir a história do mundo de the witcher para além dos limites dos livros e Jogos, onde foram lançados até o momento os seguinte livros para jogar:
 
@@ -127,7 +187,9 @@ Foi lançado também o jogo de RPG de mesa do The Witcher, onde foram lançados 
 
 ---
 
-## Série da Netflix
+<center>
+    <h1>Série da Netflix</h1>
+</center>
 
 Netflix lançou em 2019 a série do The Witcher, mostrando a história desde o inicio pelos livros, onde a ideia e trazer toda a história do Geralt de Rívia dos livros para o público das séries.
 
@@ -137,17 +199,35 @@ O Geralt da Netflix é o Grande ator Henry Cavill, que fez o Superhomem do jack 
 
 A segunda temporada vai ser lançado no final de 2021, trazendo a história do terceiro livro, mostrando o treinamento da CIRI para se tornar um Bruxo.
 
+<center>
+    <img src="images/the_witcher_netflix/the_witcher_netflix_wallpaper.jpg" width="300" height="400">
+</center>
+
 ---
 
-## História em Quadrinhos
+<center>
+    <h1>História em Quadrinhos</h1>
+</center>
 
 Tem histórias em quadrinhos que foram lançadas na polonia desde 1993, mas está chegando no brasil somente a recém algumas histórias, vindas para o Brasil pela empresa Dark Horse desde 2014, dentre elas:
 
 * <code style="color: aquamarine">A Casa de Vidro</code> Lançado em 2014
 
+<center>
+    <img src="images/the_witcher_hq/the_witcher_hq_casa_de_vidro.jpg" width="300" height="400">
+</center>
+
 * <code style="color: aquamarine">Filhos da Raposa</code> Lançado em 2015
 
+<center>
+    <img src="images/the_witcher_hq/the_witcher_hq_os_filhos_da_raposa.jpg" width="300" height="400">
+</center>
+
 * <code style="color: aquamarine">A maldição dos Corvos</code> Lançado em 2018
+
+<center>
+    <img src="images/the_witcher_game_wallpapers/the_witcher_hq_a_maldicao_dos_corvos.jpg" width="300" height="400">
+</center>
 
 
  
